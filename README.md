@@ -1,5 +1,4 @@
 # OnePoint
-![onepoint](https://user-images.githubusercontent.com/33366501/87279771-51cf6280-c52c-11ea-8e6a-170bbf44bfa9.png)
 
 # OnePoint - 멤버십 회원기반 포인트 관리 시스템
 
