@@ -1,5 +1,3 @@
-# OnePoint
-
 # OnePoint - 멤버십 회원기반 포인트 관리 시스템
 
 # Table of contents
